@@ -13,5 +13,8 @@ int main()
 {
     printf("My name is John Buessing!\n");
     printf("My major is Electrical engineering\n");
+	printf(" My name is Ayomide Oludipe!\n");
+	printf("My major is Computer Science\n);
+	
     return 0;
 }
