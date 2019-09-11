@@ -4,5 +4,6 @@
 int main()
 {
     printf("My name is John Buessing!\n");
+    printf("My major is Electrical engineering\n");
     return 0;
 }
